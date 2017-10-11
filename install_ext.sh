@@ -94,3 +94,6 @@ docker-php-ext-install zlib
 
 #MB_String
 docker-php-ext-install mbstring
+
+# MIME_MAGIC
+docker-php-ext-install mime_magic
